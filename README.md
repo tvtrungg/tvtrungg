@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Frontend Developer skilled in React, TypeScript, and Node.js, with experience in Shopify theme development and e-commerce solutions. Currently pursuing a Master's in Computer Networks at Sorbonne Université, focusing on network programming and security.<br>👯 I’m looking to collaborate on Frontend Developer.<br>🌱 I’m currently learning AWS and Cybersecurity.
+I'm a Frontend Developer skilled in Nextjs, React, TypeScript, and Node.js, with experience in Shopify theme development and e-commerce solutions. Currently pursuing a Master's in Computer Networks at Sorbonne Université, focusing on network programming and security.<br>👯 I’m looking to collaborate on Frontend Developer.<br>🌱 I’m currently learning AWS, DevOps and Cybersecurity.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/john.thieu2410)
